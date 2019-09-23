@@ -19,6 +19,8 @@ print(x.isupper())
 
 print(len(phrase))
 print(phrase[2])
-print(phrase.index("S"))
+print(phrase.index("rig"))
 print(phrase.index("i"))
 print(phrase.replace("variable","variable_replaced"))
+print(phrase.lower().upper())
+
